@@ -5,8 +5,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "Fawzi",
   "license": "ISC",
   "description": "",
   "dependencies": {
@@ -14,5 +17,8 @@
     "dotenv": "^16.5.0",
     "form-data": "^4.0.2",
     "fs": "^0.0.1-security"
+  },
+  "engines": {
+    "node": "22.14"
   }
 }
